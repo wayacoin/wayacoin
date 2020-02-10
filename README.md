@@ -18,18 +18,14 @@
 # Dapp Beta  1.0  Dec.2020
 # Dapp live  2.0  Jun.2021
 #
-# ENS (Ethereum DNS):  wayacoin.eth 
-#                    [The .eth domain above is the ETH-ERC wallet address]
-#                    [Donations accepted in ETH or any ERC20 token]   
+# ENS (Ethereum DNS):  wayacoin.eth  [The .eth domain above is the ETH wallet address, tips in any ERC20 token can be send to wayacoin.eth)
 #
 # Twitter:     @wayacoin
 # Telegram:    @wayacoin
 # Lynx Wallet: @wayacoin 
 # 
 #
-# BockExplorer
-# 
-# Etherscan:   https://etherscan.io/token/0x25d0968017bb9b3fda9819fd29b2887cfbd922c8
+# BockExplorer:  https://etherscan.io/token/0x25d0968017bb9b3fda9819fd29b2887cfbd922c8
 #
 #
 # updated.eamr...02.10.2020
