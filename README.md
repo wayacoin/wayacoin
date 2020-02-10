@@ -30,4 +30,4 @@
 # BockExplorer:  https://etherscan.io/token/0x25d0968017bb9b3fda9819fd29b2887cfbd922c8
 #
 #
-# updated.eamr...02.10.2020
+# updated.eamr... 2.10.2020
