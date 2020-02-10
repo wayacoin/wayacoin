@@ -1,7 +1,9 @@
 # WAYACOIN (WAYA) 
 # 
 # WAYA is moving to the ebakus network!
-# Why? • Testnet/Mainet Live Jan.-Feb.2020
+#
+# Why? 
+#      • Testnet/Mainet Live Jan.-Feb.2020
 #      • Ethereum chain compatibility
 #      • Fast migration 
 #      • Solidity IDE remix.ebakus.com
