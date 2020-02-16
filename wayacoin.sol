@@ -26,8 +26,8 @@ library SafeMath {
   }
 }
 
-    // wayacoin smart contract
-                 {
+    // ERC20 Token Smart Contract
+    contract Wayacoin {
         
         string public constant name = "Wayacoin";
         string public constant symbol = "Wya";
