@@ -26,16 +26,16 @@ library SafeMath {
   }
 }
 
-    // ERC20 Token Smart Contract
+    // ERC-20 Token Smart Contract
     contract Wayacoin {
         
-        string public constant name = "Wayacoin";
-        string public constant symbol = "Wya";
-        uint8 public constant decimals = 4;
-        uint public _totalSupply = 100000000000;
+        string public constant name = "wayacoin";
+        string public constant symbol = "WAYA";
+        uint8 public constant decimals = 8;
+        uint public _totalSupply = 130000000000000000;
         uint256 public RATE = 1;
         bool public isMinting = true;
-        string public constant generatedBy  = "Togen.io by Proof Suite";
+        string public constant generatedBy  = "wayacoin";
         
         using SafeMath for uint256;
         address public owner;
@@ -60,7 +60,7 @@ library SafeMath {
 
         // Constructor
         constructor() public {
-            owner = 0xd38e13b0443a925f9fc5c812bb160ba825fe7ce9; 
+            owner = 0xF22AD58f303Bf58EE81d9504644C72a2d4842E8f; 
             balances[owner] = _totalSupply;
         }
 
@@ -79,7 +79,7 @@ library SafeMath {
          function createTokens() payable {
             if(isMinting == true){
                 require(msg.value > 0);
-                uint256  tokens = msg.value.div(100000000000000).mul(RATE);
+                uint256  tokens = msg.value.div(1300000000000000000000).mul(RATE);
                 balances[msg.sender] = balances[msg.sender].add(tokens);
                 _totalSupply = _totalSupply.add(tokens);
                 owner.transfer(msg.value);
