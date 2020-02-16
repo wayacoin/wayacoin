@@ -60,7 +60,7 @@ library SafeMath {
 
         // Constructor
         constructor() public {
-            owner = 0xA4e9f7ad62DEd29c7c412e87cCa7bdfD36cb0061; 
+            owner =  0xF22AD58f303Bf58EE81d9504644C72a2d4842E8f; 
             balances[owner] = _totalSupply;
         }
 
