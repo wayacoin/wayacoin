@@ -5,7 +5,7 @@ WAYACOIN (WAYA)
 WAYA is migrating soon. 
 
 # Why? 
-#      • Testnet/Mainet Live Jan.-Feb.2020
+#      • Testnet/Mainet Live Jan.-Feb.2021
 #      • Ethereum chain compatibility
 #      • Fast migration 
 #      • Solidity IDE remix.ebakus.com
@@ -16,11 +16,11 @@ WAYA is migrating soon.
 #
 #
 # (WYA)  ERC20 token issued on ETH blockchain Jan.2019
-# (WAYA) EBK-Token migration  Feb.2020
-# IDO [Innitial Dex Offering] Nov.2020
+# (WAYA) EBK-Token migration  Feb.2021
+# IDO [Innitial Dex Offering] Nov.2021
 # 
-# Dapp Beta  1.0  Dec.2020
-# Dapp live  2.0  Jun.2021
+# Dapp Beta  1.0  Dec.2021
+# Dapp live  2.0  Jun.2022
 #
 # ENS (Ethereum DNS):  wayacoin.eth  [The .eth domain above is the ETH wallet address, tips in any ERC20 token can be send to wayacoin.eth)
 #
@@ -29,7 +29,4 @@ WAYA is migrating soon.
 # Lynx Wallet: @wayacoin 
 # 
 #
-# BockExplorer:  https://etherscan.io/token/0x25d0968017bb9b3fda9819fd29b2887cfbd922c8
-#
-#
-# updated.eamr... 2.10.2020
+
