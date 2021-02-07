@@ -5,7 +5,7 @@ WAYACOIN (WAYA)
 WAYA is migrating soon. 
 
 # Why? 
-#      • Testnet/Mainet Live Jan.-Feb.2021
+#      • Testnet  Fall 2021
 #      • Ethereum chain compatibility
 #      • Fast migration 
 #      • Solidity IDE remix.ebakus.com
